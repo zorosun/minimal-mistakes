@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://zorosun.github.io"
+  github           : "zorosun"
   gitlab           :
   google_plus      :
   keybase          :
@@ -248,6 +248,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
