@@ -1,6 +1,3 @@
-# Icon and Launch screen guide
-
-
 ## iPhone X Portrait iOS 11+
 - iPhone X : 1125x2436px
 

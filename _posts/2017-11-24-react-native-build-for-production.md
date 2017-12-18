@@ -1,5 +1,3 @@
-# How to deploy React Native IOS Application
-
 ## Preparing to deploy
 
 - Make sure you include launch image and app icon for all sizes, please make sure the size is exactly match the requirement. There are many online app icon generators for you to choose.
